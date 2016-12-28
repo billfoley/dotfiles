@@ -18,6 +18,7 @@
     (("gnu" . "http://elpa.gnu.org/packages/")
      ("melpa" . "https://melpa.org/packages/"))))
  '(recentf-mode t)
+ '(ring-bell-function (quote ignore))
  '(uniquify-buffer-name-style (quote post-forward) nil (uniquify)))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
